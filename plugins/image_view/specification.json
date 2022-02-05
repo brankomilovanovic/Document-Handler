@@ -1,0 +1,16 @@
+{
+    "id": 2,
+    "name": "Image view",
+    "authors": [{
+        "first_name": "Branko",
+        "last_name": "Milovanovic",
+        "email": "brankomilovanovic2000@gmail.com",
+        "web_page": "singidunum.ac.rs"
+    }],
+    "version": "1.0.0",
+    "core_version": "1.0.0",
+    "category": "editor",
+    "licence": "MIT",
+    "description": "Ovaj plugin prikazuje fajlove sa grafickim prikazom (.png, .jpg, .gif).",
+    "web_page": "INVALID URL"
+}
