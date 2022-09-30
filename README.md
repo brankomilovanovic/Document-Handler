@@ -25,5 +25,5 @@ The properties of the XML document are displayed through the **QTreeWidget**, it
 ![10](https://user-images.githubusercontent.com/87083680/193348130-d4fade54-402b-4d0b-8fab-825a3f46dc16.png)
 ![11](https://user-images.githubusercontent.com/87083680/193348136-e9ad969f-9f97-472e-b92b-853c796ddaeb.png)
 
-This is how the XML document looks like after editing.
+This is how the XML document looks like after editing. (it isn't the same document as in the pictures)
 ![12](https://user-images.githubusercontent.com/87083680/193348139-33e840cd-93e5-4bab-b815-be97c0547a7e.png)
