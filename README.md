@@ -3,7 +3,7 @@
 ### About
 This is a desktop application for handling a special XML (.singi) document, it was written in Python using PyQt framework.
 <br><br>
-Everything is stored in one XML document, i changed the format name for originality, so the document type is **.singi**. Directories, documents, pages, slots and slots descriptions, it's all in one document.
+Everything is stored in one XML document. Directories, documents, pages, slots and slot descriptions.
 <br>
 The properties of the XML document are displayed through the **QTreeWidget**, its directories and documents. And the document pages and their slots are displayed in the **QListWidget**, as well as the actual position of the slot and its content, similar to PowerPoint.
 <br><hr>
