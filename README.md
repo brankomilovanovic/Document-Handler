@@ -5,6 +5,7 @@ This is a desktop application for handling a special XML (.singi) document, it w
 <br><br>
 Everything is stored in one XML document. Directories, documents, pages, slots and slot descriptions.
 <br>
+Each document has its own pages, which we can add and delete, and in each page there are 'slots' in which we can enter text or an image.
 The properties of the XML document are displayed through the **QTreeWidget**, its directories and documents. And the document pages and their slots are displayed in the **QListWidget**, as well as the actual position of the slot and its content, similar to PowerPoint.
 <br><hr>
 ### Tools used
