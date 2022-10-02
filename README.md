@@ -28,3 +28,34 @@ The properties of the XML document are displayed through the **QTreeWidget**, it
 
 This is how the XML document looks like after editing. (it isn't the same document as in the pictures)
 ![12](https://user-images.githubusercontent.com/87083680/193348139-33e840cd-93e5-4bab-b815-be97c0547a7e.png)
+
+<hr>
+
+### How to build
+**1. Open CMD**
+<br>
+> Windows (WinKey + R) > enter 'cmd' > navigate to the folder where you want to place the project
+
+or<br>
+> Hold Shift + Right-click > Open CMD (not PowerShell) window here
+<br>
+
+**2. Clone**
+<br>
+> git clone https://github.com/brankomilovanovic/Document_Handler
+<br>
+
+**3. Start ENV**
+<br>
+> cd Document_Handler/virtual-env/Scripts<br>
+activate
+<br>
+
+**4. Start document handler**
+<br>
+> cd ../..<br>
+py main.py
+
+<hr>
+
+Regards, **Branko**
