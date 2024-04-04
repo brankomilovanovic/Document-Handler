@@ -16,15 +16,15 @@ The properties of the XML document are displayed through the **QTreeWidget**, it
 <hr>
 
 ### Preview
-<kbd><img src="https://user-images.githubusercontent.com/87083680/193348142-20f42de0-b48b-4d03-a35a-4a895d1657b9.png"></kbd><hr>
-<kbd><img src="https://user-images.githubusercontent.com/87083680/193348143-39fe0d1c-574c-4f9d-ab6b-a33fc570f3b8.png"></kbd><hr>
-<kbd><img src="https://user-images.githubusercontent.com/87083680/193348145-73424d4d-b29d-4f0f-abe7-9b5638fb71b3.png"></kbd><hr>
-<kbd><img src="https://user-images.githubusercontent.com/87083680/193348153-a77e5c4f-a273-4ce6-96a0-1de65928568b.png"></kbd><hr>
-<kbd><img src="https://user-images.githubusercontent.com/87083680/193348156-b09d7483-35f3-46fb-9897-a142071b18da.png"></kbd><hr>
-<kbd><img src="https://user-images.githubusercontent.com/87083680/193348157-7f735ac5-4da9-4625-a072-42e03e239bfc.png"></kbd><hr>
-<kbd><img src="https://user-images.githubusercontent.com/87083680/193348159-f34a141e-38e8-4a0f-84d5-20830f63b0b4.png"></kbd><hr>
-<kbd><img src="https://user-images.githubusercontent.com/87083680/193348130-d4fade54-402b-4d0b-8fab-825a3f46dc16.png"></kbd><hr>
-<kbd><img src="https://user-images.githubusercontent.com/87083680/193348136-e9ad969f-9f97-472e-b92b-853c796ddaeb.png"></kbd><hr>
+<kbd><img src="https://user-images.githubusercontent.com/87083680/193348142-20f42de0-b48b-4d03-a35a-4a895d1657b9.png" /></kbd><hr>
+<kbd><img src="https://user-images.githubusercontent.com/87083680/193348143-39fe0d1c-574c-4f9d-ab6b-a33fc570f3b8.png" /></kbd><hr>
+<kbd><img src="https://user-images.githubusercontent.com/87083680/193348145-73424d4d-b29d-4f0f-abe7-9b5638fb71b3.png" /></kbd><hr>
+<kbd><img src="https://user-images.githubusercontent.com/87083680/193348153-a77e5c4f-a273-4ce6-96a0-1de65928568b.png" /></kbd><hr>
+<kbd><portfolio><img src="https://user-images.githubusercontent.com/87083680/193348156-b09d7483-35f3-46fb-9897-a142071b18da.png" /></portfolio></kbd><hr>
+<kbd><img src="https://user-images.githubusercontent.com/87083680/193348157-7f735ac5-4da9-4625-a072-42e03e239bfc.png" /></kbd><hr>
+<kbd><img src="https://user-images.githubusercontent.com/87083680/193348159-f34a141e-38e8-4a0f-84d5-20830f63b0b4.png" /></kbd><hr>
+<kbd><img src="https://user-images.githubusercontent.com/87083680/193348130-d4fade54-402b-4d0b-8fab-825a3f46dc16.png" /></kbd><hr>
+<kbd><img src="https://user-images.githubusercontent.com/87083680/193348136-e9ad969f-9f97-472e-b92b-853c796ddaeb.png" /></kbd><hr>
 
 This is how the XML document looks like after editing. (it isn't the same document as in the pictures)
 ![12](https://user-images.githubusercontent.com/87083680/193348139-33e840cd-93e5-4bab-b815-be97c0547a7e.png)
